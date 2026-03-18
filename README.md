@@ -43,20 +43,21 @@ An automated **End-to-End Pipeline** that scrapes TikTok profiles, calculates re
    cd sonic-audit-tool
    
 2. Install Dependencies
-
-Bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3.Configure Environment Variables
-  Create a .env file in the root directory: 
+  Create a .env file in the root directory:
+  
   APIFY_TOKEN=your_apify_token_here
   SPREADSHEET_ID=your_google_sheets_id_here
 
 4. Add Google Credentials
+5. 
    Place your credentials.json from Google Cloud Console into the root folder.
 
-5. Run the Engine
-   bash
+6. Run the Engine
+   ```bash
    python main.py
 
 🧪 The Sonic FormulaThe "Sonic Score" is calculated based on the median performance of the last 15 videos:
