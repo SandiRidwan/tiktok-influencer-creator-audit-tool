@@ -1,4 +1,4 @@
-# 🚀 Sonic TikTok Influencer Audit Tool (V24)
+# 🚀 TikTok Influencer Audit Tool
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Apify](https://img.shields.io/badge/Apify-API-FF671E?style=for-the-badge&logo=apify&logoColor=white)
