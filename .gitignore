@@ -1,0 +1,6 @@
+# File Rahasia - JANGAN DI-UPLOAD
+credentials.json
+.env
+__pycache__/
+.venv/
+*.log
